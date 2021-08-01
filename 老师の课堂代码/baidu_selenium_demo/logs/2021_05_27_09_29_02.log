@@ -1,0 +1,3 @@
+2021-05-27 09:29:04,786 -createbrowser.py-INFO - 创建谷歌浏览器
+2021-05-27 09:29:04,786 -browseroperator.py-INFO - 打开页面:http://www.baidu.com
+2021-05-27 09:29:06,155 -browseroperator.py-INFO - 进行窗口切换
